@@ -1,0 +1,7 @@
+p {font-size: 16; color: white; text-align: justify; font-family: courier new; position: absolute; top: 50; left: 150; width: 550; bottom: 200 }
+div { height: 565; width: 1250; position: relative; top: 50; left: 120; bottom: 200; background: rgba(0, 0, 0, 0.4); padding: 20; transition: all 0.5s ease-in-out}
+.i1 {position: absolute; top: 70; left: 750; bottom: 200; height: 230; width: 300 }
+.i2 {position: absolute; top: 350; left: 1080; bottom: 200; height: 230; width: 300 }
+.i3 {position: absolute; top: 350; left: 750; bottom: 200; height: 230; width: 300 }
+.i4 {position: absolute; top: 70; left: 1080; bottom: 200; height: 230; width: 300 }
+div:hover {background: rgba(0, 0, 0, 0.9); color: white}
