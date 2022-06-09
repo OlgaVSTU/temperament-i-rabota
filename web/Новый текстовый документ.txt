@@ -1,9 +1,0 @@
-<HTML>
-<HEAD>
-<LINK REL="stylesheet" TYPE="text/css" HREF="style.css">
-<TITLE>Темперамент и работа</TITLE>
-</HEAD>
-<BODY BACKGROUND="bg.jpg" TOPMARGIN=10 BOTTOMMARGIN=10 LEFTMARGIN=10 RIGHTMARGIN=10>
-<div></div>
-</BODY>
-</HTML>
